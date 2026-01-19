@@ -141,10 +141,14 @@ L'application sera accessible à l'adresse: http://localhost:8501
 - Username: chef_dept
 - Password: dept123
 
-#### Vice-Doyen
+#### Vice-Doyen/Doyen
 - Username: vice_doyen
 - Password: doyen123
 
+#### Viewer
+- Username: viewer
+- Password: viewer123
+- 
 ## Fonctionnalités par Rôle
 
 ### Administrateur
